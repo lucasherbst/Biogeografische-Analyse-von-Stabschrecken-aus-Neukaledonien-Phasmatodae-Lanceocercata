@@ -1,0 +1,1599 @@
+NODE157:
+EVENT MATRIX:
+ Dispersal:1
+ Vicariance:1
+ Extinction:0
+Event Route:
+ B->AB->B|A
+PROBABILITY:
+ 0.3374
+
+NODE158:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ C->C^C->C|C
+PROBABILITY:
+ 0.9984
+
+NODE159:
+EVENT MATRIX:
+ Dispersal:1
+ Vicariance:1
+ Extinction:0
+Event Route:
+ C->CI->I|C
+PROBABILITY:
+ 0.9664
+
+NODE160:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ C->C^C->C|C
+PROBABILITY:
+ 0.9629
+
+NODE161:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ C->C^C->C|C
+PROBABILITY:
+ 0.9983
+
+NODE162:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ C->C^C->C|C
+PROBABILITY:
+ 0.9934
+
+NODE163:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ C->C^C->C|C
+PROBABILITY:
+ 0.9960
+
+NODE164:
+EVENT MATRIX:
+ Dispersal:1
+ Vicariance:1
+ Extinction:0
+Event Route:
+ C->BC->B|C
+PROBABILITY:
+ 0.9189
+
+NODE165:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ C->C^C->C|C
+PROBABILITY:
+ 0.8687
+
+NODE166:
+EVENT MATRIX:
+ Dispersal:1
+ Vicariance:1
+ Extinction:0
+Event Route:
+ C->BC->C|B
+PROBABILITY:
+ 0.1885
+
+NODE167:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ D->D^D->D|D
+PROBABILITY:
+ 0.9992
+
+NODE168:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ C->C^C->C|C
+PROBABILITY:
+ 0.9833
+
+NODE169:
+EVENT MATRIX:
+ Dispersal:1
+ Vicariance:1
+ Extinction:0
+Event Route:
+ C->AC->A|C
+PROBABILITY:
+ 0.5153
+
+NODE170:
+EVENT MATRIX:
+ Dispersal:1
+ Vicariance:1
+ Extinction:0
+Event Route:
+ D->CD->C|D
+PROBABILITY:
+ 0.3840
+
+NODE171:
+EVENT MATRIX:
+ Dispersal:1
+ Vicariance:1
+ Extinction:0
+Event Route:
+ F->CF->C|F
+PROBABILITY:
+ 0.7921
+
+NODE172:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ F->F^F->F|F
+PROBABILITY:
+ 0.9994
+
+NODE173:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ F->F^F->F|F
+PROBABILITY:
+ 0.9999
+
+NODE174:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ F->F^F->F|F
+PROBABILITY:
+ 0.9993
+
+NODE175:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ F->F^F->F|F
+PROBABILITY:
+ 0.9953
+
+NODE176:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ F->F^F->F|F
+PROBABILITY:
+ 0.6266
+
+NODE177:
+EVENT MATRIX:
+ Dispersal:1
+ Vicariance:1
+ Extinction:0
+Event Route:
+ D->DF->F|D
+PROBABILITY:
+ 0.4408
+
+NODE178:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ B->B^B->B|B
+PROBABILITY:
+ 0.9712
+
+NODE179:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ D->D^D->D|D
+PROBABILITY:
+ 0.9985
+
+NODE180:
+EVENT MATRIX:
+ Dispersal:1
+ Vicariance:1
+ Extinction:0
+Event Route:
+ D->BD->B|D
+PROBABILITY:
+ 0.9523
+
+NODE181:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ D->D^D->D|D
+PROBABILITY:
+ 0.9474
+
+NODE182:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ D->D^D->D|D
+PROBABILITY:
+ 0.9786
+
+NODE183:
+EVENT MATRIX:
+ Dispersal:1
+ Vicariance:1
+ Extinction:0
+Event Route:
+ D->BD->D|B
+PROBABILITY:
+ 0.8478
+
+NODE184:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ D->D^D->D|D
+PROBABILITY:
+ 0.9970
+
+NODE185:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ I->I^I->I|I
+PROBABILITY:
+ 0.9989
+
+NODE186:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ I->I^I->I|I
+PROBABILITY:
+ 0.9985
+
+NODE187:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ I->I^I->I|I
+PROBABILITY:
+ 0.9958
+
+NODE188:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ I->I^I->I|I
+PROBABILITY:
+ 0.9963
+
+NODE189:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ I->I^I->I|I
+PROBABILITY:
+ 0.9994
+
+NODE190:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ I->I^I->I|I
+PROBABILITY:
+ 0.9979
+
+NODE191:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ I->I^I->I|I
+PROBABILITY:
+ 0.9998
+
+NODE192:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ I->I^I->I|I
+PROBABILITY:
+ 0.9999
+
+NODE193:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ I->I^I->I|I
+PROBABILITY:
+ 0.9992
+
+NODE194:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ I->I^I->I|I
+PROBABILITY:
+ 0.9976
+
+NODE195:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ I->I^I->I|I
+PROBABILITY:
+ 0.9952
+
+NODE196:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ I->I^I->I|I
+PROBABILITY:
+ 0.9659
+
+NODE197:
+EVENT MATRIX:
+ Dispersal:1
+ Vicariance:1
+ Extinction:0
+Event Route:
+ D->DI->I|D
+PROBABILITY:
+ 0.7919
+
+NODE198:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ D->D^D->D|D
+PROBABILITY:
+ 0.9988
+
+NODE199:
+EVENT MATRIX:
+ Dispersal:1
+ Vicariance:1
+ Extinction:0
+Event Route:
+ C->CD->C|D
+PROBABILITY:
+ 0.8809
+
+NODE200:
+EVENT MATRIX:
+ Dispersal:1
+ Vicariance:1
+ Extinction:0
+Event Route:
+ C->CI->I|C
+PROBABILITY:
+ 0.8817
+
+NODE201:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ C->C^C->C|C
+PROBABILITY:
+ 0.6791
+
+NODE202:
+EVENT MATRIX:
+ Dispersal:1
+ Vicariance:1
+ Extinction:0
+Event Route:
+ F->EF->E|F
+PROBABILITY:
+ 0.9651
+
+NODE203:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ F->F^F->F|F
+PROBABILITY:
+ 0.9620
+
+NODE204:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ F->F^F->F|F
+PROBABILITY:
+ 0.9929
+
+NODE205:
+EVENT MATRIX:
+ Dispersal:1
+ Vicariance:1
+ Extinction:0
+Event Route:
+ F->CF->F|C
+PROBABILITY:
+ 0.7838
+
+NODE206:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ F->F^F->F|F
+PROBABILITY:
+ 0.9994
+
+NODE207:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9831
+
+NODE208:
+EVENT MATRIX:
+ Dispersal:1
+ Vicariance:1
+ Extinction:0
+Event Route:
+ F->EF->E|F
+PROBABILITY:
+ 0.8888
+
+NODE209:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ F->F^F->F|F
+PROBABILITY:
+ 0.8554
+
+NODE210:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ F->F^F->F|F
+PROBABILITY:
+ 0.7220
+
+NODE211:
+EVENT MATRIX:
+ Dispersal:1
+ Vicariance:1
+ Extinction:0
+Event Route:
+ E->EF->E|F
+PROBABILITY:
+ 0.8098
+
+NODE212:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9987
+
+NODE213:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9972
+
+NODE214:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9970
+
+NODE215:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9969
+
+NODE216:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9985
+
+NODE217:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9969
+
+NODE218:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9952
+
+NODE219:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9494
+
+NODE220:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9984
+
+NODE221:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9990
+
+NODE222:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9993
+
+NODE223:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9985
+
+NODE224:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9972
+
+NODE225:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9966
+
+NODE226:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9961
+
+NODE227:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9960
+
+NODE228:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9988
+
+NODE229:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9973
+
+NODE230:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9987
+
+NODE231:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9971
+
+NODE232:
+EVENT MATRIX:
+ Dispersal:1
+ Vicariance:1
+ Extinction:0
+Event Route:
+ E->BE->B|E
+PROBABILITY:
+ 0.9669
+
+NODE233:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9649
+
+NODE234:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9984
+
+NODE235:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9992
+
+NODE236:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9993
+
+NODE237:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9969
+
+NODE238:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9953
+
+NODE239:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9953
+
+NODE240:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9985
+
+NODE241:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9990
+
+NODE242:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9974
+
+NODE243:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9956
+
+NODE244:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9974
+
+NODE245:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9993
+
+NODE246:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9974
+
+NODE247:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ B->B^B->B|B
+PROBABILITY:
+ 0.9802
+
+NODE248:
+EVENT MATRIX:
+ Dispersal:1
+ Vicariance:1
+ Extinction:0
+Event Route:
+ F->DF->D|F
+PROBABILITY:
+ 0.4546
+
+NODE249:
+EVENT MATRIX:
+ Dispersal:1
+ Vicariance:1
+ Extinction:0
+Event Route:
+ B->BF->F|B
+PROBABILITY:
+ 0.1802
+
+NODE250:
+EVENT MATRIX:
+ Dispersal:1
+ Vicariance:1
+ Extinction:0
+Event Route:
+ E->BE->B|E
+PROBABILITY:
+ 0.3898
+
+NODE251:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9628
+
+NODE252:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9961
+
+NODE253:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9964
+
+NODE254:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ E->E^E->E|E
+PROBABILITY:
+ 0.9759
+
+NODE255:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9988
+
+NODE256:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9973
+
+NODE257:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9970
+
+NODE258:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9988
+
+NODE259:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9972
+
+NODE260:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9993
+
+NODE261:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9978
+
+NODE262:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9952
+
+NODE263:
+EVENT MATRIX:
+ Dispersal:1
+ Vicariance:1
+ Extinction:0
+Event Route:
+ G->GH->H|G
+PROBABILITY:
+ 0.9787
+
+NODE264:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9774
+
+NODE265:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9997
+
+NODE266:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9996
+
+NODE267:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9983
+
+NODE268:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9973
+
+NODE269:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9971
+
+NODE270:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9970
+
+NODE271:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9967
+
+NODE272:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9970
+
+NODE273:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9944
+
+NODE274:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ H->H^H->H|H
+PROBABILITY:
+ 0.9976
+
+NODE275:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ H->H^H->H|H
+PROBABILITY:
+ 0.9603
+
+NODE276:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9985
+
+NODE277:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9988
+
+NODE278:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9973
+
+NODE279:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9998
+
+NODE280:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9992
+
+NODE281:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9998
+
+NODE282:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9991
+
+NODE283:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9978
+
+NODE284:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9964
+
+NODE285:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9955
+
+NODE286:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9955
+
+NODE287:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9971
+
+NODE288:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9984
+
+NODE289:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9984
+
+NODE290:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9953
+
+NODE291:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9985
+
+NODE292:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9997
+
+NODE293:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9989
+
+NODE294:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9996
+
+NODE295:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9999
+
+NODE296:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9994
+
+NODE297:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9984
+
+NODE298:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9981
+
+NODE299:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9966
+
+NODE300:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9958
+
+NODE301:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9973
+
+NODE302:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9971
+
+NODE303:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9956
+
+NODE304:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9949
+
+NODE305:
+EVENT MATRIX:
+ Dispersal:1
+ Vicariance:1
+ Extinction:0
+Event Route:
+ G->GH->G|H
+PROBABILITY:
+ 0.9319
+
+NODE306:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ G->G^G->G|G
+PROBABILITY:
+ 0.9424
+
+NODE307:
+EVENT MATRIX:
+ Dispersal:1
+ Vicariance:1
+ Extinction:0
+Event Route:
+ E->EG->G|E
+PROBABILITY:
+ 0.4321
+
+NODE308:
+EVENT MATRIX:
+ Dispersal:1
+ Vicariance:1
+ Extinction:0
+Event Route:
+ D->DE->E|D
+PROBABILITY:
+ 0.2998
+
+NODE309:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ D->D^D->D|D
+PROBABILITY:
+ 0.6441
+
+NODE310:
+EVENT MATRIX:
+ Dispersal:0
+ Vicariance:0
+ Extinction:0
+Event Route:
+ D->D^D->D|D
+PROBABILITY:
+ 0.5559
+
+NODE311:
+EVENT MATRIX:
+ Dispersal:2
+ Vicariance:1
+ Extinction:2
+Event Route:
+ GH->->CD->D|C
+PROBABILITY:
+ 0.0743
+
+===================
+Dispersal Between Areas:
+B->A:1
+B->F:1
+C->A:1
+C->B:2
+C->D:1
+C->I:2
+D->B:2
+D->C:1
+D->E:1
+D->F:1
+D->I:1
+E->B:2
+E->F:1
+E->G:1
+F->C:2
+F->D:1
+F->E:2
+G->C:0.5
+G->D:0.5
+G->H:2
+H->C:0.5
+H->D:0.5
+Speciation Within Areas:
+B:2
+C:8
+D:8
+E:39
+F:10
+G:48
+H:2
+I:12
+Dispersal Table:
+	from	to	within
+A	0.00	2.00	0
+B	2.00	6.00	2
+C	6.00	4.00	8
+D	6.00	3.00	8
+E	4.00	3.00	39
+F	5.00	3.00	10
+G	3.00	1.00	48
+H	1.00	2.00	2
+I	0.00	3.00	12
+===================
+Global Cost:
+ Global Dispersal: 27
+ Global Vicariance: 26
+ Global Extinction: 2

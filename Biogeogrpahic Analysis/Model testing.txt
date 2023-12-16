@@ -1,0 +1,16 @@
+#Results of Model Test#
+LnL		numparams	d	e	j	AICc	AICc_wt
+DEC		-156.5	2	0.0092	0.30	0	317	5.7e-11
+DEC+J		-132.4	3	0.0008	0.33	0.0072	271	0.55
+DIVALIKE	-144	2	0.0015	0.056	0	292.1	1.5e-05
+DIVALIKE+J	-133.4	3	1.0e-12	0.057	0.012	273	0.21
+BAYAREALIKE	-160.4	2	0.0019	0.065	0	324.9	1.1e-12
+BAYAREALIKE+J	-133.2	3	1.0e-07	0.034	0.012	272.6	0.25
+# Use the highest AICc_wt to select the best model
+===============================================================
+alt	null	LnLalt	LnLnull	DFalt	DFnull	DF	Dstatistic	pval	test	tail	AIC1	AIC2	AICwt1	AICwt2	AICweight_ratio_model1	AICweight_ratio_model2
+DEC+J	DEC	-132.4	-156.5	3	2	1	48.03	4.2e-12	chi-squared	one-tailed	270.9	316.9	1.00	1.0e-10	9.87e+09	1.0e-10
+DIVALIKE+J	DIVALIKE	-133.4	-144	3	2	1	21.17	4.2e-06	chi-squared	one-tailed	272.8	292	1.00	6.9e-05	14530	6.9e-05
+BAYAREALIKE+J	BAYAREALIKE	-133.2	-160.4	3	2	1	54.31	1.7e-13	chi-squared	one-tailed	272.5	324.8	1.00	4.4e-12	2.29e+11	4.4e-12
+# The p-value of the LRT (Likelihood Ratio Test) tells you whether or not you can reject
+# the null hypothesis that without J and +J confer equal likelihoods on the data.

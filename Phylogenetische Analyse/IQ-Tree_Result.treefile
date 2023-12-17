@@ -1,0 +1,256 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=154;
+	taxlabels
+	Acanthomenexus_polyacanthus_ID
+	Acanthoxyla_geisovii_NZ
+	Acrophylla_thoon_MU
+	Acrophylla_titan_AU
+	Acrophylla_wuelfingi_ACT1_AU
+	Acrophylla_wuelfingi_LAN12_AU
+	Anchiale_briareus_LAN6_AU
+	Anchiale_briareus_WS007_AU
+	Anchiale_maculata_Bacan_ID
+	'Anchiale_sp.Anchiale_sp._STI17_SB'
+	'Anchiale_sp._WS135_NG'
+	Anchiale_sp_Buru_ID
+	Anchiale_stolli_NB
+	Apterograeffea_marshallae_MU
+	Apterograeffea_reunionensis_RE
+	Asprenas_impennis_NK
+	'Asprenas_sp._ASP3_NK'
+	'Asprenas_sp._ASP5_NK'
+	'Asprenas_sp._ASP7_NK'
+	Canachus_alligator_CAA1_NK
+	Canachus_alligator_CAN1_Na
+	Canachus_alligator_CAN4_NK
+	'Canachus_sp._CAN2_NK'
+	'Canachus_sp._CAN3_NK'
+	'Canachus_sp._CAN5_NK'
+	Canachus_sp_spiny__Koghi_NK
+	Carausius_morosus_Na
+	Carausius_sechellensis_SC
+	Carlius_fecundus_Farino_NK
+	Carlius_fecundus_NK
+	'Carlius_sp._ASP10_NK'
+	'Carlius_sp._ASP11_NK'
+	'Carlius_sp._ASP12_NK'
+	'Carlius_sp._NC11_NK'
+	'Carlius_sp._NC8_NK'
+	Cigarrophasma_tessellatum_Na
+	Clitarchus_hookeri_NZ
+	Cnipsus_rachis_CR1_NK
+	Cnipsus_rachis_CR3_NK
+	Ctenomorpha_marginipennis_AU
+	'Ctenomorpha_sp._LAN2_AU'
+	'Ctenomorpha_sp._LAN3_AU'
+	Didymuria_sp_AU
+	Dimorphodes_catenulatus_NG
+	Dimorphodes_mancus_NG
+	Dimorphodes_prostasis_NG
+	Dimorphodes_sp_Aru_ID
+	Dimorphodes_sp_Galela_ID
+	Dimorphodes_sp_Misool_ID
+	Dimorphodes_sp_NG
+	Dryococelus_australis_LH
+	Epicharmus_marchali_Na
+	Eurycnema_goliath_EYG1_AU
+	Eurycnema_goliath_EYG2_AU
+	Eurycnema_goliath_WS040_AU
+	Eurycnema_osiris_Darwin_AU
+	Eurycnema_osiris_EUO1_AU
+	Eurycnema_osiris_WS145_AU
+	Eurycnema_versirubra_Timor_ID
+	Extatosoma_popa_WS065_AU
+	Extatosoma_tiaratum_AU
+	Extatosoma_tiaratum_bufonium_AU
+	Extatosoma_tiaratum_tiaratum_AU
+	Graeffea_crouanii_FI
+	Graeffea_crouanii_Tahiti_RI
+	Graeffea_seychellensis_SC
+	Graeffea_sp_AU
+	Graeffea_sp_FI
+	Graeffea_sp_SB
+	Hermarchus_Fiji_WS122_NH
+	'Hermarchus_sp._HER2_FI'
+	'Hermarchus_sp._WS123_FI'
+	Hermarchus_sp_FI
+	Hermarchus_sp_TI
+	Labidiophasma_rouxi_NK
+	Leosthenes_sp_NK
+	Lonchodes_philippinicus_PH
+	Lonchodinae_sp_PH
+	Lonchodiodes_sp_PH
+	Lysicles_hippodytus_AU
+	Macrophasma_biroi_HEB1_NG
+	Macrophasma_biroi_WS067_NG
+	Malandania_pulchra_AU
+	Manduria_systropedon_PH
+	Megacrania_aplheus_AU
+	Megacrania_batesii_AU
+	Megacrania_phelaus_MEP1_SB
+	Megacrania_phelaus_SB
+	Micrarchus_hystriculeus_NZ
+	Microcanachus_matileorum_NK
+	Microcanachus_sp_Koghi_NK
+	Mithrenes_panayensis_PH
+	Monandroptera_acanthomera_MOA1_MU
+	Monandroptera_acanthomera_MOA2_RE
+	Monandroptera_acanthomera_WS144_RE
+	Monogynacantha_multispinosa_2_RE
+	Monogynacantha_multispinosa_RE
+	Monoiognosis_bipunctata_MU
+	Monoiognosis_spinosa_MU
+	Onchestus_rentzi_Na
+	Ophicrania_bifasciatus_NG
+	Ophicrania_bifasciatus_Na
+	Ophicrania_palinurus_PH
+	Ophicrania_sp_Na
+	Pachymorpha_sp_AU
+	Parapodacanthus_hasenpuschorum_AU
+	Parapodacanthus_hasenpushorum_AU
+	Paronchestus_charon_Na
+	Periphetes_forcipatus_ID
+	Periphetes_quezonicus_PH
+	Periphetes_sp_PH
+	Phasma_gigas_PMG1_NG
+	Phasma_gigas_WS056_NG
+	'Phasmatidae_sp._NC10_NK'
+	'Phasmatidae_sp._NC1_NK'
+	'Phasmatidae_sp._NC2_NK'
+	'Phasmatidae_sp._NC3_NK'
+	'Phasmatidae_sp._NC4_NK'
+	'Phasmatidae_sp._NC6_NK'
+	'Phasmatidae_sp._NC7_NK'
+	'Phasmatidae_sp._NC9_NK'
+	'Phasmatidae_sp._STI20_AU'
+	Phasmotaenia_godeffroyi_PH
+	Phasmotaenia_lanyuhensis_PHL1_TW
+	Phasmotaenia_sanchezi_Sagada_PH
+	Phasmotaenia_sp_PH
+	Phasmotaenia_sp_SB
+	Podacanthus_wilkinsoni_POW1_AU
+	Podacanthus_wilkinsoni__LAN14_AU
+	Rhaphiderus_scabrosus_MU
+	Rhaphiderus_scabrosus_RE
+	Rhaphiderus_spiniger_RE
+	Spinotectarchus_acornutus_NZ
+	Tropidoderus_childrenii_WS035_AU
+	Tropidoderus_childrenii__LAN7_AU
+	'Tropidoderus_sp.__LAN5_AU'
+	'Tropidoderus_sp.__LAN8_AU'
+	'Tropidoderus_sp.__LAN9_AU'
+	Xeroderus_sp_AU
+	sp_10_NK
+	sp_11_NK
+	sp_12_NK
+	sp_13_NK
+	sp_16_NK
+	sp_18_NK
+	sp_19_NK
+	sp_1_NK
+	sp_2_NK
+	sp_3_NK
+	sp_4_NK
+	sp_5_NK
+	sp_6_NK
+	sp_7_NK
+	sp_9_NK
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (Anchiale_briareus_WS007_AU:0.00111,(((((((((((((Carausius_sechellensis_SC:0.130242,(((Periphetes_quezonicus_PH:0.170982,Periphetes_sp_PH:0.357831)[&label="99.9/100"]:0.078506,Periphetes_forcipatus_ID:0.177719)[&label="87.4/99"]:0.012214,Lonchodinae_sp_PH:0.128502)[&label="82.1/99"]:0.009293)[&label="93/99"]:0.016787,Lonchodes_philippinicus_PH:0.115546)[&label="42.8/94"]:0.014475,((Lonchodiodes_sp_PH:0.165927,Mithrenes_panayensis_PH:0.246824)[&label="99.9/100"]:0.075876,Manduria_systropedon_PH:0.142595)[&label="6.69/93"]:0.0071)[&label="100/100"]:0.085178,(Acanthomenexus_polyacanthus_ID:0.26768,Carausius_morosus_Na:0.321164)[&label="87.3/99"]:0.032747)[&label="100/100"]:0.087637,(((((Hermarchus_sp_FI:2.0E-6,'Hermarchus_sp._WS123_FI':3.0E-6)[&label="0/93"]:3.0E-6,'Hermarchus_sp._HER2_FI':0.006494)[&label="89.3/100"]:0.007992,(Hermarchus_Fiji_WS122_NH:0.002104,Hermarchus_sp_TI:0.001159)[&label="95.8/100"]:0.01151)[&label="100/100"]:0.178326,(((Phasmotaenia_sanchezi_Sagada_PH:0.040598,Phasmotaenia_sp_PH:0.050874)[&label="94.5/100"]:0.035761,Phasmotaenia_lanyuhensis_PHL1_TW:0.08857)[&label="100/100"]:0.095823,(Phasmotaenia_sp_SB:2.0E-6,Phasmotaenia_godeffroyi_PH:2.0E-6)[&label="100/100"]:0.115619)[&label="52.2/96"]:0.016762)[&label="14.6/89"]:0.01518,(Macrophasma_biroi_WS067_NG:0.001461,Macrophasma_biroi_HEB1_NG:2.0E-6)[&label="100/100"]:0.180151)[&label="99.9/100"]:0.063645)[&label="95.7/99"]:0.022178,((Dimorphodes_prostasis_NG:0.118638,(Dimorphodes_sp_Galela_ID:0.073857,Dimorphodes_sp_Misool_ID:0.080098)[&label="94.9/99"]:0.038475)[&label="29.6/81"]:0.017123,((Dimorphodes_catenulatus_NG:0.016201,Dimorphodes_mancus_NG:0.010763)[&label="100/100"]:0.078223,(Dimorphodes_sp_Aru_ID:0.100244,Dimorphodes_sp_NG:0.095233)[&label="95.9/99"]:0.027829)[&label="98/99"]:0.033305)[&label="100/100"]:0.072364)[&label="97/100"]:0.022081,(((Monandroptera_acanthomera_WS144_RE:3.0E-6,(Monandroptera_acanthomera_MOA1_MU:0.018102,Monandroptera_acanthomera_MOA2_RE:0.014791)[&label="0/74"]:2.0E-6)[&label="100/100"]:0.066182,(((Rhaphiderus_scabrosus_RE:3.0E-6,Rhaphiderus_scabrosus_MU:2.0E-6)[&label="55/100"]:6.63E-4,Rhaphiderus_spiniger_RE:0.002676)[&label="100/100"]:0.074763,(Monogynacantha_multispinosa_RE:4.43E-4,Monogynacantha_multispinosa_2_RE:2.0E-6)[&label="100/100"]:0.090583)[&label="74.7/94"]:0.020689)[&label="100/100"]:0.085494,(((Apterograeffea_marshallae_MU:0.04102,Apterograeffea_reunionensis_RE:0.036654)[&label="100/100"]:0.086646,(Monoiognosis_bipunctata_MU:0.006094,Monoiognosis_spinosa_MU:0.002876)[&label="100/100"]:0.096574)[&label="88.9/100"]:0.028357,Epicharmus_marchali_Na:0.218537)[&label="99.6/100"]:0.065489)[&label="98.5/89"]:0.03997)[&label="93.1/63"]:0.015971,(((((((((Eurycnema_goliath_WS040_AU:0.059357,Eurycnema_goliath_EYG2_AU:0.08009)[&label="0/5"]:2.0E-6,Eurycnema_goliath_EYG1_AU:0.062039)[&label="99.6/32"]:0.057843,((Eurycnema_osiris_WS145_AU:0.026824,(Eurycnema_osiris_Darwin_AU:0.015865,Eurycnema_osiris_EUO1_AU:0.058027)[&label="0/99"]:0.003231)[&label="100/100"]:0.118334,Eurycnema_versirubra_Timor_ID:0.172295)[&label="97/99"]:0.046198)[&label="100/99"]:0.079805,Ctenomorpha_marginipennis_AU:0.082985)[&label="62.6/80"]:0.012175,Dryococelus_australis_LH:0.12377)[&label="81.9/64"]:0.014567,((Parapodacanthus_hasenpushorum_AU:0.002802,Parapodacanthus_hasenpuschorum_AU:0.001603)[&label="100/100"]:0.102729,(Podacanthus_wilkinsoni__LAN14_AU:0.002366,Podacanthus_wilkinsoni_POW1_AU:0.002163)[&label="100/100"]:0.099169)[&label="99.9/99"]:0.050985)[&label="82/35"]:0.010036,(((Extatosoma_popa_WS065_AU:0.110109,((Extatosoma_tiaratum_AU:0.010523,Extatosoma_tiaratum_tiaratum_AU:0.003012)[&label="99.5/100"]:0.035546,Extatosoma_tiaratum_bufonium_AU:0.047041)[&label="46.1/99"]:0.020097)[&label="100/100"]:0.066411,Cigarrophasma_tessellatum_Na:0.090213)[&label="96.2/99"]:0.029899,(('Ctenomorpha_sp._LAN2_AU':0.020584,Paronchestus_charon_Na:0.022824)[&label="100/100"]:0.130806,'Ctenomorpha_sp._LAN3_AU':0.191429)[&label="88.1/96"]:0.034982)[&label="95.4/97"]:0.023038)[&label="90.4/32"]:0.01037,(((((Megacrania_batesii_AU:0.018594,Megacrania_aplheus_AU:0.008866)[&label="99.7/100"]:0.056767,(Megacrania_phelaus_SB:0.001813,Megacrania_phelaus_MEP1_SB:2.0E-6)[&label="100/100"]:0.086695)[&label="99.9/100"]:0.093099,Graeffea_sp_SB:0.178292)[&label="97.3/100"]:0.045636,(((((Ophicrania_bifasciatus_Na:3.0E-6,Ophicrania_bifasciatus_NG:3.0E-6)[&label="100/100"]:0.08056,Ophicrania_sp_Na:0.137552)[&label="99.6/96"]:0.060245,Ophicrania_palinurus_PH:0.110013)[&label="70.7/91"]:0.024737,Graeffea_seychellensis_SC:0.10182)[&label="97.4/100"]:0.066237,((Graeffea_crouanii_FI:0.002471,(Graeffea_sp_AU:0.001098,Graeffea_crouanii_Tahiti_RI:3.0E-6)[&label="98/100"]:0.009878)[&label="92.8/100"]:0.040586,Graeffea_sp_FI:0.105047)[&label="99.2/100"]:0.076182)[&label="86.5/99"]:0.010206)[&label="100/100"]:0.053754,(((((((((Canachus_sp_spiny__Koghi_NK:0.095489,sp_1_NK:0.053998)[&label="98.3/100"]:0.025541,(((sp_3_NK:0.008518,(Canachus_alligator_CAA1_NK:2.0E-6,Canachus_alligator_CAN1_Na:2.0E-6)[&label="99.7/100"]:0.009375)[&label="81/100"]:0.003553,Canachus_alligator_CAN4_NK:0.012239)[&label="100/100"]:0.100467,((sp_11_NK:0.004775,'Canachus_sp._CAN5_NK':0.004484)[&label="0/97"]:1.43E-4,'Canachus_sp._CAN3_NK':7.98E-4)[&label="100/100"]:0.083796)[&label="97.6/99"]:0.024928)[&label="62.3/95"]:0.015535,'Canachus_sp._CAN2_NK':0.111215)[&label="94.7/100"]:0.023274,Microcanachus_matileorum_NK:0.114917)[&label="98.3/100"]:0.030694,Microcanachus_sp_Koghi_NK:0.125005)[&label="96.7/93"]:0.025461,(((((((((((Carlius_fecundus_Farino_NK:2.0E-6,'Carlius_sp._NC8_NK':0.003089)[&label="86.4/100"]:0.005148,'Carlius_sp._ASP12_NK':0.009871)[&label="96.3/100"]:0.009961,Carlius_fecundus_NK:0.033962)[&label="98.2/100"]:0.015191,'Carlius_sp._ASP10_NK':0.080023)[&label="100/100"]:0.049998,sp_19_NK:0.059513)[&label="68.4/99"]:0.026638,((sp_18_NK:2.0E-6,'Phasmatidae_sp._NC6_NK':3.0E-6)[&label="76.6/98"]:0.089092,'Phasmatidae_sp._NC10_NK':3.0E-6)[&label="100/100"]:0.167952)[&label="92.7/83"]:0.026781,('Carlius_sp._ASP11_NK':2.0E-6,'Carlius_sp._NC11_NK':9.73E-4)[&label="100/100"]:0.179669)[&label="48.1/77"]:0.029553,'Phasmatidae_sp._NC4_NK':0.109744)[&label="98.2/83"]:0.035614,(Cnipsus_rachis_CR1_NK:0.069452,Cnipsus_rachis_CR3_NK:0.06849)[&label="100/100"]:0.079409)[&label="68.8/57"]:0.011395,((sp_13_NK:0.193911,('Phasmatidae_sp._NC1_NK':0.003331,'Phasmatidae_sp._NC2_NK':0.008916)[&label="100/100"]:0.130438)[&label="65.3/97"]:0.034524,Leosthenes_sp_NK:0.230666)[&label="84.7/71"]:0.017395)[&label="49.9/41"]:0.004977,((sp_10_NK:0.117171,('Phasmatidae_sp._NC7_NK':0.005452,'Phasmatidae_sp._NC9_NK':0.006261)[&label="99.9/100"]:0.067125)[&label="100/100"]:0.147626,Spinotectarchus_acornutus_NZ:0.175455)[&label="90.3/71"]:0.023479)[&label="92.3/64"]:0.011411)[&label="20.4/11"]:0.002244,('Phasmatidae_sp._NC3_NK':0.1728,Labidiophasma_rouxi_NK:0.144244)[&label="85.8/61"]:0.019577)[&label="78/29"]:0.003922,((Acanthoxyla_geisovii_NZ:0.072622,Clitarchus_hookeri_NZ:0.070074)[&label="89.2/99"]:0.022106,Micrarchus_hystriculeus_NZ:0.242014)[&label="98.1/98"]:0.037372)[&label="67.8/54"]:0.007693,(((((sp_2_NK:0.002796,sp_7_NK:0.002867)[&label="84.3/100"]:0.001147,sp_12_NK:0.001193)[&label="100/100"]:0.091683,(((sp_4_NK:2.0E-6,sp_5_NK:0.004872)[&label="35.3/99"]:0.001898,sp_6_NK:2.0E-6)[&label="98.9/100"]:0.019738,'Asprenas_sp._ASP3_NK':0.018063)[&label="100/100"]:0.043058)[&label="61.9/96"]:0.018564,(sp_16_NK:0.033785,('Asprenas_sp._ASP5_NK':0.068283,'Asprenas_sp._ASP7_NK':0.171599)[&label="88.8/100"]:0.088089)[&label="99.7/100"]:0.168767)[&label="86.2/99"]:0.014298,(sp_9_NK:0.053118,Asprenas_impennis_NK:0.049725)[&label="100/100"]:0.109908)[&label="100/100"]:0.060951)[&label="99.1/100"]:0.023781)[&label="82.8/42"]:0.005546)[&label="89/17"]:0.008419,((((Tropidoderus_childrenii_WS035_AU:0.089902,'Tropidoderus_sp.__LAN8_AU':0.088217)[&label="22.9/25"]:0.019695,Tropidoderus_childrenii__LAN7_AU:0.095281)[&label="23.7/48"]:0.006417,('Tropidoderus_sp.__LAN5_AU':0.002281,'Tropidoderus_sp.__LAN9_AU':0.001952)[&label="100/100"]:0.103116)[&label="74.8/80"]:0.031124,(Lysicles_hippodytus_AU:3.0E-6,Didymuria_sp_AU:3.0E-6)[&label="100/100"]:0.175913)[&label="98.7/99"]:0.031933)[&label="53/19"]:0.006442)[&label="87.4/33"]:0.00731,(Onchestus_rentzi_Na:0.190396,(Pachymorpha_sp_AU:0.242053,Xeroderus_sp_AU:0.278158)[&label="81.6/38"]:0.018786)[&label="0/15"]:3.0E-6)[&label="96/57"]:0.015316,(((Acrophylla_thoon_MU:0.168011,Malandania_pulchra_AU:0.117986)[&label="85.9/72"]:0.01929,(Acrophylla_titan_AU:0.094504,(Acrophylla_wuelfingi_ACT1_AU:6.16E-4,Acrophylla_wuelfingi_LAN12_AU:2.0E-6)[&label="100/100"]:0.063601)[&label="96.3/100"]:0.021204)[&label="93.6/77"]:0.016725,'Phasmatidae_sp._STI20_AU':0.153199)[&label="89.9/73"]:0.014639)[&label="85.2/64"]:0.011746,(Phasma_gigas_WS056_NG:2.0E-6,Phasma_gigas_PMG1_NG:2.0E-6)[&label="100/100"]:0.285937)[&label="23.6/80"]:0.020437,Anchiale_briareus_LAN6_AU:0.129523)[&label="61.6/93"]:0.025117,((Anchiale_stolli_NB:0.008663,'Anchiale_sp._WS135_NG':0.00716)[&label="99.8/100"]:0.041381,(Anchiale_sp_Buru_ID:0.061579,Anchiale_maculata_Bacan_ID:0.036075)[&label="100/100"]:0.058455)[&label="100/100"]:0.046729)[&label="100/100"]:0.098266,'Anchiale_sp.Anchiale_sp._STI17_SB':0.003381);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName=".AppleSystemUIFont";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName=".AppleSystemUIFont";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute=null;
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute=null;
+	set nodeShapeInternal.colourAttribute=null;
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName=".AppleSystemUIFont";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="decreasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="equal";
+end;
+
